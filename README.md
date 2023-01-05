@@ -1,1 +1,3 @@
-"# Task2" 
+To start the program:
+npm install
+npm start
